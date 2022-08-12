@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kavim.github.io/CripThorJs/static/css/main.125fef7a.css",
-    "main.js": "/kavim.github.io/CripThorJs/static/js/main.dedb9c4e.js",
-    "static/js/787.076e2d65.chunk.js": "/kavim.github.io/CripThorJs/static/js/787.076e2d65.chunk.js",
-    "index.html": "/kavim.github.io/CripThorJs/index.html",
-    "main.125fef7a.css.map": "/kavim.github.io/CripThorJs/static/css/main.125fef7a.css.map",
-    "main.dedb9c4e.js.map": "/kavim.github.io/CripThorJs/static/js/main.dedb9c4e.js.map",
-    "787.076e2d65.chunk.js.map": "/kavim.github.io/CripThorJs/static/js/787.076e2d65.chunk.js.map"
+    "main.css": "/CripThorJs/static/css/main.125fef7a.css",
+    "main.js": "/CripThorJs/static/js/main.5da76a85.js",
+    "static/js/787.076e2d65.chunk.js": "/CripThorJs/static/js/787.076e2d65.chunk.js",
+    "index.html": "/CripThorJs/index.html",
+    "main.125fef7a.css.map": "/CripThorJs/static/css/main.125fef7a.css.map",
+    "main.5da76a85.js.map": "/CripThorJs/static/js/main.5da76a85.js.map",
+    "787.076e2d65.chunk.js.map": "/CripThorJs/static/js/787.076e2d65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.125fef7a.css",
-    "static/js/main.dedb9c4e.js"
+    "static/js/main.5da76a85.js"
   ]
 }
