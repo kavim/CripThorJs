@@ -3,7 +3,7 @@ import './App.css';
 import crypto from "crypto-js";
 
 function App() {
-    const [aes_hashed_text,setAesHashedText] = useState("");
+    // const [aes_hashed_text,setAesHashedText] = useState("");
     const [md5_hashed_text,setMd5HashedText] = useState("");
     const [sha512_hashed_text,setSha512HashedText] = useState("");
     const [sha256_hashed_text,setSha256HashedText] = useState("");
